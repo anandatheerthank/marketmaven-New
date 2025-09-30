@@ -5,47 +5,44 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MarketMaven
 build_property.RootNamespace = MarketMaven
-build_property.ProjectDir = D:\Source New\Market Maven (1)\MarketMaven\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\Manickam TEKNOTURF\repos\CAPG\2023\ASP.NET COre\Market Maven\MarketMaven\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Source New\Market Maven (1)\MarketMaven
+build_property.MSBuildProjectDirectory = D:\Manickam TEKNOTURF\repos\CAPG\2023\ASP.NET COre\Market Maven\MarketMaven
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/Market/AddEmployee.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/Market/AddEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0XEFkZEVtcGxveWVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/Market/GreetNote.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/Market/GreetNote.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0XEdyZWV0Tm90ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/Market/RegisterForm.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/Market/RegisterForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0XFJlZ2lzdGVyRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/Shared/Error.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/_ViewImports.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/_ViewStart.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Source New/Market Maven (1)/MarketMaven/Views/Shared/_Layout.cshtml]
+[D:/Manickam TEKNOTURF/repos/CAPG/2023/ASP.NET COre/Market Maven/MarketMaven/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-93hiv56vmv
