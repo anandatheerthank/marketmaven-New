@@ -1,0 +1,15 @@
+﻿
+@model MarketMaven.Models.EmployeeLogin
+
+@{
+    ViewData["Title"] = "GreetNote";
+}
+
+@{
+    <h1 id="message">Welcome to Market Maven - @Model.Email</h1>
+}
+
+<div>
+    <a asp-controller="Market"  asp-action="RegisterForm">Back to Login page</a>
+</div>
+
